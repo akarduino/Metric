@@ -1,5 +1,7 @@
 # Metric
 
+[![Build Status](https://travis-ci.org/akarduino/Metric.svg?branch=master)](https://travis-ci.org/akarduino/Metric)
+
 Библиотека Arduino для отправки данных statsd серверу через UDP
 
 # Использование
